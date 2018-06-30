@@ -1,5 +1,5 @@
 from flask import Flask, request, abort, json
-import instagram
+from instagram import crawler
 
 app = Flask(__name__)
 
