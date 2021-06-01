@@ -18,7 +18,7 @@ pytz==2018.3
 PyWavelets==0.5.2
 requests==2.18.4
 subprocess32==3.2.7
-urllib3==1.22
+urllib3==1.26.5
 uWSGI==2.0.15
 beautifulsoup4==4.6.0
 bs4==0.0.1
